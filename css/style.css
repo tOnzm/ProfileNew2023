@@ -1,0 +1,32 @@
+.card-profile{
+   
+    border-radius: 50%;   
+    background-image: url("/image/profile.jpg"); 
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+    width: 200px; 
+    border: 10px solid #ffffff;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+ 
+}
+
+.navbar-brand{
+    width: 100%;    
+    text-align: center;
+}
+
+.icon-40{
+font-size: 50px;
+display: inline-block;
+margin-right: 10px;
+margin-left: 20px;
+text-align: center;
+}
+.icon-40 > h6{
+    font-size: 15px;
+    text-align: center;
+}
+#skill{
+    padding-bottom: 0;
+}

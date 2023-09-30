@@ -1,0 +1,44 @@
+.ton-dart::before{
+    content: url(/image/icons/dart.svg);   
+}
+.ton-html::before{
+    content: url(/image/icons/html5.svg);   
+}
+
+.ton-css::before{
+    content: url(/image/icons/css.svg);   
+}
+.ton-python::before{
+    content: url(/image/icons/python.svg);   
+}
+.ton-django::before{
+    content: url(/image/icons/django.svg);   
+}
+.ton-bootstrap::before{
+    content: url(/image/icons/bootstrap.svg);   
+}
+.ton-flutter::before{
+    content: url(/image/icons/flutter.svg);   
+}
+.ton-ps::before{
+    content: url(/image/icons/ps.svg);   
+}
+.ton-ai::before{
+    content: url(/image/icons/ai.svg);   
+}
+.ton-xd::before{
+    content: url(/image/icons/xd.svg);   
+}
+.ton-figma::before{
+    content: url(/image/icons/figma.svg);   
+}
+.ton-pm::before{
+    content: url(/image/icons/pm.svg);   
+}
+.ton-vscode::before{
+    content: url(/image/icons/vscode.svg);   
+}
+.ton-github::before{
+    content: url(/image/icons/github.svg);   
+}
+
