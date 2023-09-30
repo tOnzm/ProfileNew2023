@@ -39,6 +39,6 @@
     content: url(./image/icons/vscode.svg);   
 }
 .ton-github::before{
-    content: url(./image/icons/github.svg);   
+    content: url(../image/icons/github.svg);   
 }
 
