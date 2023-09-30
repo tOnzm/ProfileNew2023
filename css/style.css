@@ -1,7 +1,18 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Sarabun&display=swap');
+
+
+*{
+    font-family: 'Sarabun', sans-serif;
+}
+
+
 .card-profile{
    
     border-radius: 50%;   
-    background-image: url("../image/profile.jpg"); 
+    background-image: url("../image/profile2.webp"); 
     background-position: top;
     background-size: cover;
     height: 200px;
@@ -14,6 +25,8 @@
 .navbar-brand{
     width: 100%;    
     text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
 }
 
 .icon-40{
@@ -29,4 +42,24 @@ text-align: center;
 }
 #skill{
     padding-bottom: 0;
+}
+.info-title{
+    font-weight: 400; 
+    padding: 5px;   
+}
+.main-info{
+    font-weight: 800;
+    padding-left: 30px;    
+}
+.title-bold{
+    font-weight: 600;
+}
+.fa-instagram{
+    color: black;
+}
+.fa-github{
+    color: black;
+}
+.fa-steam{
+    color: black;
 }
