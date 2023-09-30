@@ -15,28 +15,28 @@
     content: url(/image/icons/django.svg);   
 }
 .ton-bootstrap::before{
-    content: url(./image/icons/bootstrap.svg);   
+    content: url(../image/icons/bootstrap.svg);   
 }
 .ton-flutter::before{
-    content: url(./image/icons/flutter.svg);   
+    content: url(../image/icons/flutter.svg);   
 }
 .ton-ps::before{
-    content: url(./image/icons/ps.svg);   
+    content: url(../image/icons/ps.svg);   
 }
 .ton-ai::before{
-    content: url(./image/icons/ai.svg);   
+    content: url(../image/icons/ai.svg);   
 }
 .ton-xd::before{
-    content: url(./image/icons/xd.svg);   
+    content: url(../image/icons/xd.svg);   
 }
 .ton-figma::before{
-    content: url(./image/icons/figma.svg);   
+    content: url(../image/icons/figma.svg);   
 }
 .ton-pm::before{
-    content: url(./image/icons/pm.svg);   
+    content: url(../image/icons/pm.svg);   
 }
 .ton-vscode::before{
-    content: url(./image/icons/vscode.svg);   
+    content: url(../image/icons/vscode.svg);   
 }
 .ton-github::before{
     content: url(../image/icons/github.svg);   
