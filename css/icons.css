@@ -1,18 +1,18 @@
 .ton-dart::before{
-    content: url(/image/icons/dart.svg);   
+    content: url(../image/icons/dart.svg);   
 }
 .ton-html::before{
-    content: url(/image/icons/html5.svg);   
+    content: url(../image/icons/html5.svg);   
 }
 
 .ton-css::before{
-    content: url(/image/icons/css.svg);   
+    content: url(../image/icons/css.svg);   
 }
 .ton-python::before{
-    content: url(/image/icons/python.svg);   
+    content: url(../image/icons/python.svg);   
 }
 .ton-django::before{
-    content: url(/image/icons/django.svg);   
+    content: url(../image/icons/django.svg);   
 }
 .ton-bootstrap::before{
     content: url(../image/icons/bootstrap.svg);   
